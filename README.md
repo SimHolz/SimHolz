@@ -1,6 +1,10 @@
 Hi, I’m @SimHolz
+
 PhD Student in the Längst Lab at the University of Regensburg 
+
 Epigenetics 🧬 | 💻 Bioinformatics
+
+.
 
 Interested in Sequencing and packaging of DNA
 
